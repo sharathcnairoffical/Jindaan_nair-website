@@ -72,14 +72,18 @@
 }
 #about .btn
 {
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 
 }
 .about-content
 {
   padding-top: 3px;
+  padding: inherit;
   padding-left: 250px;
+  font-style: normal;
+  font-family:sans-serif;
+
 }
 
 .skills-bar
@@ -119,8 +123,8 @@ margin: 10px;
 #PHOTOGRAPHY .h1 {
 
                       color: #ffff;
-                      font-size: 50px;
-                      text-align: left;
+                      font-size: 60px;
+                      text-align: center;
                       padding-left: 18%;
 
 
